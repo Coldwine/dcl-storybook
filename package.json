@@ -1,0 +1,8 @@
+{
+  "name": "dcl-storybook",
+  "version": "0.0.1",
+  "description": "UI components with a DC Legends game theme.",
+  "repository": "git@github.com:Coldwine/dcl-storybook.git",
+  "author": "Marcel Krause",
+  "license": "MIT"
+}
