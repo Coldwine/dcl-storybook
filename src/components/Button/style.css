@@ -1,0 +1,30 @@
+.button {
+  appearance: none;
+  border-radius: 10px 2px;
+  font: 16px sans-serif;
+  line-height: 1;
+  min-width: 80px;
+  padding: 5px;
+  text-align: center;
+}
+
+.button.default {
+  background-color: white;
+  border: 1px solid gray;
+  box-shadow: 0 0 10px gray;
+  color: black;
+}
+
+.button.green {
+  background-color: green;
+  border: 1px solid darkgreen;
+  box-shadow: 0 0 10px green;
+  color: white;
+}
+
+.button.red {
+  background-color: red;
+  border: 1px solid darkred;
+  box-shadow: 0 0 10px red;
+  color: white;
+}
